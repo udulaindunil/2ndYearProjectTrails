@@ -1,0 +1,20 @@
+footer{
+ 	background-color: #222222;
+ 	color: #fefefe;
+}
+
+footer img{
+	height: 40px;
+}
+
+
+footer a i{
+ 	background-color: #222222;
+ 	color: #fefefe;
+ 	font-size: 40px;
+ 	padding-left: 3px;
+}
+
+footer #ft{
+	text-align: center;
+}

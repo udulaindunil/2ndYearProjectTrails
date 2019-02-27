@@ -1,0 +1,18 @@
+body{
+
+	background-color: #444444;
+	background-image: url('../img/bacak.jpg');
+  	background-repeat: no-repeat;
+  	background-position: right top;
+  	background-attachment: fixed;
+  	color: #fafafa;
+  	position: relative;
+}
+
+p{
+	color: #f4f4f4;
+}
+
+.divStyle{
+	padding-top: 40px;
+}

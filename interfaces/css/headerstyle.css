@@ -1,0 +1,41 @@
+#header{
+
+ 	background-color: #222222;
+ 	color: red;
+ 	
+}
+
+#header img{
+	height: 40px;
+}
+
+
+#header a i{
+
+
+ 	color: #fefefe;
+ 	font-size: 30px;
+ 	padding-left: 3px;
+ 	padding-top: 10px;
+}
+
+#signin{
+
+	
+
+	border-style: none;
+	
+}
+
+#signup{
+
+	
+
+	border-style: none;
+	
+}
+
+
+
+
+

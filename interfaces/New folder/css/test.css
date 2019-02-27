@@ -1,0 +1,22 @@
+
+body{
+	background-image: url('../img/bacak.jpg');
+  	background-repeat: no-repeat;
+  	background-position: right top;
+  	background-attachment: fixed;
+  	position: relative;
+}
+
+
+p{
+	color: red;
+}
+
+.divStyle{
+	padding-top: 40px;
+}
+
+
+#navigationbar{
+	margin-top: auto;
+}

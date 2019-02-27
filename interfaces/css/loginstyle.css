@@ -1,0 +1,82 @@
+#loginbox{
+	border-radius: 25px;
+  	background: ;
+  	padding: 50px 50px;
+  	width: auto;
+  	height: auto;
+  	margin-top: 100px; 
+  	color: #f2f2f2;
+}
+
+#login{
+	text-align: center;
+}
+
+a:link {
+  color: #959595;
+}
+
+a:hover {
+  color: red;
+}
+
+img{
+	height: 50px;
+	width: 50px;
+
+}
+
+#icon{
+	margin: auto;
+  	width: auto;
+  	text-align: center;
+}
+
+body{
+
+	background-color: #444444;
+	background-image: url('../img/back.jpg');
+  	background-repeat: no-repeat;
+  	background-position: right top;
+  	background-attachment: fixed;
+}
+
+#loginimage{
+	/*background-color: red;*/
+}
+
+#loginimage img{
+
+	height: 400px;
+}
+
+#bg #username{
+	color: #222255;
+	font-size: 20px;
+	color: #fefefe;
+	
+}
+
+#bg #password{
+	color: #222255;
+	font-size: 20px;
+	color: #fefefe;
+}
+
+#bg p{
+	margin: 30px 40px;
+	font-size: 20px;
+	color: #999999;
+	text-align: justify;
+}
+
+input[type=text]{
+  background-color: #333333;
+  color: red;
+}
+
+input[type=password]{
+  background-color: #333333;
+  color: red;
+}
+
